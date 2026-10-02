@@ -6,7 +6,7 @@
 
 ---
 
-🚀 Sobre mim
+## 🚀 Sobre mim
 
 Olá! Meu nome é Lucas Moraes Teles e sou estudante de Informática na ETEC Alberto Santos Dumont.
 
