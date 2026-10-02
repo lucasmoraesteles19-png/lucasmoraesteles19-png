@@ -1,4 +1,4 @@
-👋 Olá! Eu sou Lucas Moraes Teles!
+## 👋 Olá! Eu sou Lucas Moraes Teles!
 
 🎓 Estudante de Informática | Desenvolvimento de Sistemas
 🏫 ETEC Alberto Santos Dumont
