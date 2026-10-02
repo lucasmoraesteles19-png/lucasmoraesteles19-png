@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=180&section=header&text=Bem-vindo%20ao%20meu%20perfil!&fontSize=35&fontColor=FFFFFF&animation=twinkling&fontAlignY=35"/>
+
+</div>
+
 ## 👋 Olá! Eu sou Lucas Moraes Teles!
 
 🎓 Estudante de Informática | Desenvolvimento de Sistemas
